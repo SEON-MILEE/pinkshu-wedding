@@ -37,7 +37,7 @@ const CONFIG = {
     date: "2026-10-03",
     time: "11:00",
     venue: "포스코센터 아트홀",
-    address: "서울시 강남구 테헤란로 440 포스코센터",
+    address: "서울시 강남구 테헤란로 440 포스코센터 서관 4층",
     mapLinks: {
       kakao: "https://place.map.kakao.com/8617090",
       naver: "https://naver.me/xY47gzDk"
@@ -46,8 +46,8 @@ const CONFIG = {
 
   // ── 우리의 이야기 ──
   story: {
-    title: "우리의 이야기",
-    content: "서로 다른 길을 걷던 두 사람이\n하나의 길을 함께 걷게 되었습니다.\n\n여러분을 소중한 자리에 초대합니다."
+    title: "초대합니다",
+    content: "가시버시,\n서로의 벗되어 오순도순 사는 부부를 뜻합니다\n하늘이 열린다는 뜻깊은 날\n서로에게 벗되어 같은 하늘을 열어가겠습니다"
   },
 
   // ── 오시는 길 ──
@@ -56,12 +56,12 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", bank: "농협은행", number: "000-000-000000" },
+      { role: "신랑", bank: "농협은행", number: "127-12-380323" },
       { role: "아버지", bank: "OO은행", number: "000-00-000000" },
       { role: "어머니", bank: "OO은행", number: "000-00-000000" }
     ],
     bride: [
-      { role: "신부", bank: "하나은행", number: "620-198811-652" },
+      { role: "신부", bank: "국민은행", number: "001502-04-340501" },
       { role: "아버지", bank: "OO은행", number: "000000-00-000000" },
       { role: "어머니", bank: "OO은행", number: "000-00-000000-0" }
     ]
